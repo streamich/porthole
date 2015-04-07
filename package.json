@@ -1,0 +1,9 @@
+{
+  "name": "porthole-clone",
+  "version": "0.0.1",
+  "description": "A clone of Porthole, just to make it available on NPM.",
+  "main": "./src/porthole.js",
+  "repository": "https://github.com/streamich/porthole",
+  "dependencies": {},
+  "devDependencies": {}
+}
